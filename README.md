@@ -36,3 +36,13 @@ Random Forest Regressor achieved an R² Score of approximately 80.46% on the tes
 
 ## Conclusion
 Random Forest Regressor performed better than Linear Regression on the test dataset.
+
+## Trained Model
+
+The trained Random Forest model is saved as:
+
+- `house_price_model.pkl`
+
+The model file is approximately 145 MB and is currently stored locally.
+
+It is not included in this GitHub repository because it exceeds GitHub's standard file upload limit.
